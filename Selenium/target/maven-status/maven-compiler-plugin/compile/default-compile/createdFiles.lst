@@ -1,0 +1,9 @@
+selenium\models\User.class
+selenium\pages\HomePage.class
+selenium\pages\RegistrationPage.class
+selenium\utils\Browser.class
+selenium\pages\BasePage.class
+selenium\models\User$UserBuilder.class
+selenium\pages\LoginPage.class
+selenium\pages\MyAccountPage.class
+selenium\utils\UserHelper.class
